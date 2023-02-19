@@ -13,10 +13,33 @@ Information wants to be free, and no person should be denied access to books sim
 This site only includes links to banned books, this account and the people that share this info are not responsible for hosting the books or maintaining the sites that do. Want them taken down? (First off - fuck you.) And secondly, take it up with the site owners. 
 
 # Book List
-These are some of the most challenged/banned books according to the [ala](https://www.ala.org/advocacy/bbooks/frequentlychallengedbooks/top10). Click on the title to download the book.
-1. [Gender Queer by Maia Kobabe](https://annas-archive.org/md5/c90efeafe08ca2fcd19385adad93e541)
+These are some of the most challenged/banned books according to the [ALA](https://www.ala.org/advocacy/bbooks/frequentlychallengedbooks/top10). Click on the title to download the book.
+1. [Gender Queer by Maia Kobabe](https://annas-archive.org/md5/c90efeafe08ca2fcd19385adad93e541) 
 2. [Lawn Boy by Jonathan Evison](https://annas-archive.org/md5/0ef781ec23223b9c8c1edb8a5a3782c2)
+3. [All Boys Aren’t Blue by George M. Johnson](https://annas-archive.org/md5/d312f088529ed2ce5689cedd37f68390)
+4. [Out of Darkness by Ashley Hope Perez](https://annas-archive.org/md5/e05f01aad708d325e3ef1d8a522120d5)
+5. [The Hate U Give by Angie Thomas](https://annas-archive.org/md5/5a74d37db3f49e617735886aee6db4d0)
+6. [The Absolutely True Diary of a Part-Time Indian by Sherman Alexie](https://annas-archive.org/md5/faafaa80283be118a2db9e64ed8a9c9a)
+7. [Me and Earl and the Dying Girl by Jesse Andrews](https://annas-archive.org/md5/0fa24f3ddd50a772e8dc117c7e50cf1b)
+8. [The Bluest Eye by Toni Morrison](https://annas-archive.org/md5/603d50c07141f18302c98bc0f95fa80d)
+9. [This Book is Gay by Juno Dawson](https://annas-archive.org/md5/fb63da6859fee24ea1bc7d46be68ae21)
+10. [Beyond Magenta by Susan Kuklin](https://annas-archive.org/md5/228b81b44ce9848f1182f58f1163c84c)
+11. [George by Alex Gino](https://annas-archive.org/md5/d83bcf8349fd6e2894a439bf23ce9365)
+12. [Stamped: Racism, Antiracism, and You by Ibram X. Kendi and Jason Reynolds](https://annas-archive.org/md5/7b104a70b1d8937d25e55d3c94374731)
+13. [All American Boys by Jason Reynolds and Brendan Kiely](https://annas-archive.org/md5/03bc557c4e7289bf618b7f9b0c2c77f1)
+14. [Speak by Laurie Halse Anderson](https://annas-archive.org/md5/f95b79eefcc7ebb062c250f71527a561)
+15. [To Kill a Mockingbird by Harper Lee](https://annas-archive.org/md5/2daef529d976ba12232b439d905d9b45)
+16. [Of Mice and Men by John Steinbeck](https://annas-archive.org/md5/39842f9894443f623faa65e448c029d4)
+17. [The Bluest Eye by Toni Morrison](https://annas-archive.org/md5/d4be39acbfcb9aeb9155c2676e4820da)
+18. [A Day in the Life of Marlon Bundo by Jill Twiss, illustrated by EG Keller](https://annas-archive.org/md5/a2104241ce5200a1fcf87bd3ea35eb93)
+19. [I Am Jazz by Jessica Herthel and Jazz Jennings, illustrated by Shelagh McNicholas](https://annas-archive.org/md5/8d5d9697e474fa6d2b47c1cff06ebf9b)
+20. [The Handmaid’s Tale by Margaret Atwood](https://annas-archive.org/md5/047707f9eb0fa3a72c9a99b34abff8ee)
+21. [Drama written and illustrated by Raina Telgemeier](https://annas-archive.org/md5/99bbbbb99e358812f6c2ac89beaf869a)
+22. [And Tango Makes Three by Peter Parnell and Justin Richardson illustrated by Henry Cole](https://annas-archive.org/md5/569ecf223a51e2daea33a87ffbc5b0a7)
 
+## Florida State Specific Lists
+Florida is leading the charge in banning books. At the moment most school libraries are empty as the state has come in and removed large sections of books. 
+The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
 
 
 
