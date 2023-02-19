@@ -14,8 +14,8 @@ This site only includes links to banned books, this account and the people that 
 
 # Book List
 These are some of the most challenged/banned books according to the [ala](https://www.ala.org/advocacy/bbooks/frequentlychallengedbooks/top10). Click on the title to download the book.
-[Gender Queer by Maia Kobabe](https://annas-archive.org/md5/c90efeafe08ca2fcd19385adad93e541)
-[Lawn Boy by Jonathan Evison](https://annas-archive.org/md5/0ef781ec23223b9c8c1edb8a5a3782c2)
+1. [Gender Queer by Maia Kobabe](https://annas-archive.org/md5/c90efeafe08ca2fcd19385adad93e541)
+2. [Lawn Boy by Jonathan Evison](https://annas-archive.org/md5/0ef781ec23223b9c8c1edb8a5a3782c2)
 
 
 
