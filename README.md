@@ -13,6 +13,10 @@ Information wants to be free, and no person should be denied access to books sim
 This site only includes links to banned books, this account and the people that share this info are not responsible for hosting the books or maintaining the sites that do. Want them taken down? (First off - fuck you.) And secondly, take it up with the site owners. 
 
 # Book List
+These are some of the most challenged/banned books according to the [ala](https://www.ala.org/advocacy/bbooks/frequentlychallengedbooks/top10). Click on the title to download the book.
+[Gender Queer by Maia Kobabe](https://annas-archive.org/md5/c90efeafe08ca2fcd19385adad93e541)
+[Lawn Boy by Jonathan Evison](https://annas-archive.org/md5/0ef781ec23223b9c8c1edb8a5a3782c2)
+
 
 
 
