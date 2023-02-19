@@ -4,15 +4,15 @@ This digital library hosts books that are being banned or challenged by Republic
 
 Information wants to be free, and no person should be denied access to books simply because someone doesn't agree with them. We should allow people to live their lives and be able to read about topics that might resonate with them. We can't ignore history or lie about it. We can't deny the humanity of people by invalidating who they love, or how they identify. We can't allow states, governments, and corporations to lie to people, feeding them misinformation for political gain. And so - in a small way, with a server in hand, or a website, or a blog, or a tweet, someone has decided to share the books that some think should be banned.
 
-# Table of Contents
-1. [Accessing the books](#Accessing Books)
+# Table-of-Contents
+1. [Accessing the books](# Accessing-Books)
 2. [Book List](#Book List)
 3. [Replicating and spreading](# Replication)
 
-#Accessing Books
+# Accessing-Books
 This site only includes links to banned books, this account and the people that share this info are not responsible for hosting the books or maintaining the sites that do. Want them taken down? (First off - fuck you.) And secondly, take it up with the site owners. 
 
-#Book List
+# Book List
 
 
 
