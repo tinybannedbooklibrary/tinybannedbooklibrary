@@ -17,3 +17,7 @@ This site only includes links to banned books, this account and the people that 
 
 
 # Replication
+This type of site can be replicated and modified. Want to make a new library to include links to specific things like trans rights and trans resources? Fork this library and add links to it. Want to include more links to specific information about social justice, Black history, and radical politics? Fork this repo and create one. 
+This will make sure that information is being spread as much as possible, that this is distributed and decentralized. Make a copy in case this repo/site is taken down, fork this to do your own thing or to keep things updated. 
+When forks are created, they can be merged with this site, so if you do create a new library list of resources of your own and it's good, it might be added into this one. 
+[How to fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
