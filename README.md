@@ -85,7 +85,7 @@ This is an incomplete list of the top most banned books in the state of Florida.
 40. [Ivy Aberdeen’s Letter to the World, by Ashley Herring Blake](https://annas-archive.org/md5/791cd9f83d939ed064bf622f81287c4c)
 41. [Jasmine Toguchi, Flamingo Keeper (Jasmine Toguchi Series), by Debbi Michiko Florence, and Elizabet Vukovic ](https://annas-archive.org/md5/b77ef2b38eed8520700b79372867dbef)
 42. [A Little Piece of Ground, by Elizabeth Laird, Sonia Nimr and Bill Neal](https://annas-archive.org/md5/777044bd71ca5f719d3a3cdf2e8b4d20)
-43. [A Long Pitch Home, by Natalie Dias Lorenzi]()https://annas-archive.org/md5/590d54e5f5bbf2c499721edcc8a998a1
+43. [A Long Pitch Home, by Natalie Dias Lorenzi](https://annas-archive.org/md5/590d54e5f5bbf2c499721edcc8a998a1)
 44. [Lost Boys, by Darcey Rosenblatt](https://annas-archive.org/md5/2fc7f826c2b0b990bcbc20a18e00296f)
 45. [Lucky Broken Girl, by Ruth Behar](https://annas-archive.org/md5/2b40f20cd08c32e611f986943c06ff62)
 46. [Make Way for Dyamonde Daniel (Dyamonde Daniel Series), by Nikki Grimes, and R. Gregory Christie](https://annas-archive.org/md5/a9490bbdd267b9c4bf851e92b170ecd1)
@@ -118,10 +118,70 @@ This is an incomplete list of the top most banned books in the state of Florida.
 73. [Winter Candle Frame, by Ashford Jeron and Stacey Schuett](https://annas-archive.org/md5/133f3beeea96dce27cb28c6c36cd4b76)
 
 
-Index of all books banned across states
+### Index of all books banned across states
 This is taken from the PEN america list of banned books across almost every school district and state in the US. This list will be updated over time.
-Source: https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318
-https://pen.org/banned-in-the-usa/
+Source: [PEN Index of Banned Books](https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318)
+
+Breakdown of the book bannings: [https://pen.org/banned-in-the-usa/](ttps://pen.org/banned-in-the-usa/)
+1. [Ace of Spades by Àbíké-Íyímídé, Faridah](https://annas-archive.org/md5/3f621e334f4983be8700c962b4ea7d52)
+2. [Clap When You Land by Acevedo, Elizabeth](https://annas-archive.org/md5/36b3bac3bab42696e87aa804c5a988af)
+3. [The Poet X by Acevedo, Elizabeth](https://annas-archive.org/md5/84af5b84c2d49df734a86754507f5466)
+4. [Call Me By Your Name (Call Me By Your Name Series) by Aciman, André](https://annas-archive.org/md5/405183f3112420925a2bfa400182087b)
+5. [My Name Is María Isabel by Ada, Alma Flor](https://annas-archive.org/md5/e74217044f449a01e20e08d2d11fa1b9)
+6. [Children of Blood and Bone (Legacy of Orïsha Series) by Adeyemi, Tomi](https://annas-archive.org/md5/75053163aa4d6425e71cf69a8c505fce)
+7. [Half of a Yellow Sun by Adichie, Chimamanda Ngozi](https://annas-archive.org/md5/d5d16d6bf0ef1139d3741a9489630af9)
+8. [Cool for the Summer by Adler, Dahlia](https://annas-archive.org/md5/b44a17f0f8d131504e47f41011f1e483)
+9. [The Accidental Adventures of India McAllister by Agell, Charlotte](https://annas-archive.org/md5/fc3ca654ab75ccb4718fc7a27dd03b34)
+10. [How It All Blew Up by Ahmadi, Arvin](https://annas-archive.org/md5/8b338f0590f8028761e36f9dd9baac52)
+11. [Love, Hate & Other Filters by Ahmed, Samira](https://annas-archive.org/md5/1c7bbeb6a4f303d61b5a79a0ccd6cf93)
+12. [Being the Change: Lessons and Strategies to Teach Social Comprehension by Ahmed, Sara K.](https://annas-archive.org/md5/b2b3120b27da4f5425c9783ed0f1aca1)
+13. [Here's to Us by Albertalli, Becky](https://annas-archive.org/md5/b534358790b528919e39ed038edbdd5d)
+14. [Kate in Waiting by Albertalli, Becky](https://annas-archive.org/md5/362ed224409a46159d0cac9198a84f79)
+15. [Leah on the Offbeat (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/c019cc6a82647515a327f617ed1257d6)
+16. [Love, Creekwood: A Simonverse Novella (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/fb0aba605db8cb56bedd86fd67981fc6)
+17. [Simon vs. the Homo Sapiens Agenda (Simonverse Series) by Albertalli, Becky]()https://annas-archive.org/md5/f26f0860131f031ef498c346ddaf591d
+18. [The Upside of Unrequited (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/1df2ef4557247846c960d0adb6e6bd39)
+19. [What If It's Us (What If It's Us Series) by Albertalli, Becky](https://annas-archive.org/md5/8d917d471dc5f5c9434248425fb8be07)
+20. [Indivisible by Aleman, Daniel](https://annas-archive.org/md5/2a538ef80944d24cd89aa7a40d24dbb1)
+21. [The Undefeated by Alexander, Kwame](https://annas-archive.org/md5/6f9d6d5013a91446f409bd7ef2de0ec1)
+22. [The New Jim Crow: Mass Incarceration in the Age of Colorblindness by Alexander, Michelle](https://annas-archive.org/md5/f8e529453918ca593f46e42d63ae01c8)
+23. [Thunder Boy Jr. by Alexie, Sherman](https://annas-archive.org/md5/cd49aa7ccf9c43bbf9c35d4fc0eab826)
+24. [Girls Like Us (2019) by Alger, Cristina](https://annas-archive.org/md5/90624912a65ed291fdf349eb40b89bf7)
+25. [The House of the Spirits by Allende, Isabel](https://annas-archive.org/md5/8629dbaad5f07ca0530c44e03f4fc3b6)
+26. [The Ballad of Ami Miles by Alley, Kristy Dallas](https://annas-archive.org/md5/17727b5446a2e38fb9f68ec5c1bca561)
+27. [Bless Me, Ultima by Anaya, Rudolfo](https://annas-archive.org/md5/c7c8a2ec50092a82635dd0deb64ebe15)
+28. [The Weight of the Stars by Ancrum, K.](https://annas-archive.org/md5/1b2b60d4d306e4e186b739aa5382a2bc)
+29. [Victories Greater Than Death (Unstoppable Series) by Anders, Charlie Jane](https://annas-archive.org/md5/fb5321e41454747a5990efbecef39ca6)
+30. [White Rage: The Unspoken Truth of Our Racial Divide by Anderson, Carol](https://annas-archive.org/md5/75c6327cbc43eeed270122436431de74)
+31. [Shout by Anderson, Laurie Halse](https://annas-archive.org/md5/528994ad841db63d1a86e9d8d7949180)
+32. [Some Assembly Required: The Not-So-Secret Life of a Transgender Teen by Andrews, Arin](https://annas-archive.org/md5/21553b5711a297611b07a70417e39fde)
+33. [The Haters by Andrews, Jesse](https://annas-archive.org/md5/f1bd42e24e0aba9c964e728da6ee79a5)
+34. [And Still I Rise by Angelou, Maya](https://annas-archive.org/md5/c509b6f3824c1789035db9f8a3069703)
+35. [I Know Why The Caged Bird Sings by Angelou, Maya](https://annas-archive.org/md5/2f51945534aa80e0fa0d79d2c689f2f5)
+36. [Modern Romance: An Investigation by Ansari, Aziz](https://annas-archive.org/md5/f7d43c28d4b52dd19cc60edf6d6d668c)
+37. [Duels and Deception by Anstey, Cindy](https://annas-archive.org/md5/94892d73b952e7fae25bd7865b49f8fd)
+38. [LGBTQ Families: The Ultimate Teen Guide by Apelqvist, Eva](https://annas-archive.org/md5/ce21cda7b1736bdbad375fd70b296b0f)
+39. [Wishtree by Applegate, Katherine](https://annas-archive.org/md5/1ad76fc4b0181cd875b13bf74e3f569f)
+40. [Meet Cute: Some People Are Destined to Meet by Armentrout, Jennifer L.](https://annas-archive.org/md5/605fae0e1ef3de823eb65fbc661d77d2)
+41. [A Boy Called Bat (A Boy Called Bat Series) by Arnold, Elana K.](https://annas-archive.org/md5/0c6d7a07febf9708721e711f49513c35)
+42. [Damsel by Arnold, Elana K.](https://annas-archive.org/md5/299864258493e7a3fd559ed173ec4cd9)
+43. [Infandous by Arnold, Elana K.](https://annas-archive.org/md5/beb40185a426c16d47617c380d564f4e)
+44. [Red Hood by Arnold, Elana K.](https://annas-archive.org/md5/87477bac3f4abac0e4c68860ceef3f82)
+45. [What Girls Are Made Of by Arnold, Elana K.](https://annas-archive.org/md5/10cfd8dd89ddd8316031e67ae0f543ee)
+46. [The Black Flamingo by Atta, Dean](https://annas-archive.org/md5/54b9d38fb6bfaff635856a8d9f2573e5)
+47. [Raise the Stakes by Atwood, Megan](https://annas-archive.org/md5/fd16b640e23b0f48c164395b1ff78261)
+48. [Rising Out by Azmitia, M.](https://annas-archive.org/md5/35beb0851187f08a2c1cfb180f0acc94)
+49. [Morris Micklewhite and the Tangerine Dress by Baldacchino, Christine](https://annas-archive.org/md5/c6d8b46b710ed996838f9d3c114659cc)
+50. [Blindspot: Hidden Biases of Good People by Banaji, Mahzarin R.](https://annas-archive.org/md5/95c87d953a45d97e754dda86368b222a)
+51. [One Man Guy by Barakiva, Michael](https://annas-archive.org/md5/c59eba93c655591247d08ceb57b46a4c)
+52. [Brand New School, Brave New Ruby (Ruby and the Booker Boys Series) by Barnes, Derrick](https://annas-archive.org/md5/d78cddd205ea2e8d3e0a49fd48907fd6)
+53. [Crown: An Ode to the Fresh Cut by Barnes, Derrick](https://annas-archive.org/md5/959a8befb6869a39e2db15c39b82f2ff)
+54. []()
+55. []()
+56. []()
+57. []()
+58. []()
+59. 
 
   
  
