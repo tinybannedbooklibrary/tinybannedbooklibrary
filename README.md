@@ -48,6 +48,8 @@ The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which 
 </details>
 
 
+
+
 # Replication
 This type of site can be replicated and modified. Want to make a new library to include links to specific things like trans rights and trans resources? Fork this library and add links to it. Want to include more links to specific information about social justice, Black history, and radical politics? Fork this repo and create one. 
 This will make sure that information is being spread as much as possible, that this is distributed and decentralized. Make a copy in case this repo/site is taken down, fork this to do your own thing or to keep things updated. 
