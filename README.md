@@ -40,7 +40,14 @@ These are some of the most challenged/banned books according to the [ALA](https:
 ### Florida State Specific Lists
 Florida is leading the charge in banning books. At the moment most school libraries are empty as the state has come in and removed large sections of books. 
 The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
+<details>
+<summary>Brevard County Ban List</summary>
+Test
 
+```
+CODE!
+```
+</details>
 
 
 # Replication
