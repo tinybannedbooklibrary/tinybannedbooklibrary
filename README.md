@@ -42,10 +42,9 @@ Florida is leading the charge in banning books. At the moment most school librar
 The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
 <details>
 <summary>Florida state Ban List - Thanks to PEN America</summary>
-1. []()
-2. []()
+This is an incomplete list of the top most banned books in the state of Florida. This list is incomplete because some of these books are not available at the moment. This was updated Feburary of 2023. Sourec: https://pen.org/banned-books-florida/
   
-</details>
+ 
 1. [The Haters by Jesse Andrews ](https://annas-archive.org/md5/f1bd42e24e0aba9c964e728da6ee79a5)
 2. [Damsel by Elana K. Arnold ](https://annas-archive.org/md5/299864258493e7a3fd559ed173ec4cd9)
 3. [Infandous by Elana K. Arnold ](https://annas-archive.org/md5/406fc2552df6db786f0b7ea5dd6e5cb9)
@@ -78,16 +77,60 @@ The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which 
 30. [Gaby, Lost and Found, by Angela Cervantes](https://annas-archive.org/md5/20bf46e475273b69cee8d0707aaecb1d)
 31. [The Garden of My Imaan, by Farhana Zia ](https://annas-archive.org/md5/528c78b6a6ad5991d28c91598466009e)
 32. [The Gold-Threaded Dress, by Carolyn Marsden](https://annas-archive.org/md5/5dd5aa109f081266ab274ef5828dfbb7)
-33. []()
-34. []()
-35. []()
-36. []()
-37. []()
-38. []()
-39. []()
-40. []()
-41. []()
-42. 
+33. [Gracefully Grayson, by Ami Polonsky](https://annas-archive.org/md5/1a61c2590d88212885bd2891bb81bf5d)
+34. [Hachiko: The True Story of a Loyal Dog, by Pamela S. Turner and Yan Nascimbene](https://annas-archive.org/md5/303ee9a5576da028ece9d1d9ea9a2c10)
+35. [A Handful of Stars, by Cynthia Lord](https://annas-archive.org/md5/1b738d1f107eeb3f9ab46d37e2ebd24f)
+36. [The Hero Two Doors Down: Based on the True Story of Friendship between a Boy and a Baseball Legend, by Sharon Robinson](https://annas-archive.org/md5/69b451fa04f11443c6627a634e45b6a8)
+37. [Hiawatha and the Peacemaker, by Robbie Robertson, and David Shannon](https://annas-archive.org/md5/025502f2b1c2e36c0fedc2d99abb6cdb)
+38. [Indian No More, by Charlene Willing McManis, and Traci Sorell](https://annas-archive.org/md5/ef3817ad29cb853bc08d0572cbf6562d)
+39. [It Ain’t So Awful, Falafel, by Firoozeh Dumas](https://annas-archive.org/md5/1090821653d0162c4ad0175753f34cf3)
+40. [Ivy Aberdeen’s Letter to the World, by Ashley Herring Blake](https://annas-archive.org/md5/791cd9f83d939ed064bf622f81287c4c)
+41. [Jasmine Toguchi, Flamingo Keeper (Jasmine Toguchi Series), by Debbi Michiko Florence, and Elizabet Vukovic ](https://annas-archive.org/md5/b77ef2b38eed8520700b79372867dbef)
+42. [A Little Piece of Ground, by Elizabeth Laird, Sonia Nimr and Bill Neal](https://annas-archive.org/md5/777044bd71ca5f719d3a3cdf2e8b4d20)
+43. [A Long Pitch Home, by Natalie Dias Lorenzi]()https://annas-archive.org/md5/590d54e5f5bbf2c499721edcc8a998a1
+44. [Lost Boys, by Darcey Rosenblatt](https://annas-archive.org/md5/2fc7f826c2b0b990bcbc20a18e00296f)
+45. [Lucky Broken Girl, by Ruth Behar](https://annas-archive.org/md5/2b40f20cd08c32e611f986943c06ff62)
+46. [Make Way for Dyamonde Daniel (Dyamonde Daniel Series), by Nikki Grimes, and R. Gregory Christie](https://annas-archive.org/md5/a9490bbdd267b9c4bf851e92b170ecd1)
+47. [The Mighty Miss Malone, by Christopher Paul Curtis](https://annas-archive.org/md5/16e8523b69c681b3bc696d10307457cd)
+48. [The Misadventures of the Family Fletcher (Family Fletcher Series), by Dana Alison Levy](https://annas-archive.org/md5/ae1148a9f7fbfdebdf03c5c59808e3e4)
+49. [The Moon Within, by Aida Salazar](https://annas-archive.org/md5/b53ef7f9a50e50f74b61c4c8d89a532a)
+50. [Most Valuable Players (Rip and Red Series), by Phil Bildner and Tim Probert](https://annas-archive.org/md5/9258c52e97d60721a8d0cd6a1637acd5)
+51. [he Mud Pony, by Caron Lee Cohen](https://annas-archive.org/md5/e7a5fa932425f6bce8d6fc8bfcb31f26)
+52. [My Name Is María Isabel, by Alma Flor Ada, Kathryn Dyble Thompson and Ana M. Cerro](https://annas-archive.org/md5/e74217044f449a01e20e08d2d11fa1b9)
+53. [My Name Is Sally Little Song, by Brenda Woods](https://annas-archive.org/md5/ee4d2eeb2dd79443547213d42b52d461)
+54. [The Name Jar, by Yangsook Choi](https://annas-archive.org/md5/2acae12890c9a5501340910003ec8ad1)
+55. [The Night Diary, by Veera Hiranandani](https://annas-archive.org/md5/c7aeb211f7f07b66a338ef0a8940f0b3)
+56. [Niño Wrestles the World](https://annas-archive.org/md5/bf9f1d7b7177b53fcdcf57c8b1a54a1b)
+57. [Other Words for Home, by Jasmine Warga](https://annas-archive.org/md5/763698c1d59293dc658d87ab58095636)
+58. [Pink Is for Boys, by Robb Pearlman and Eda Kaban](https://annas-archive.org/md5/83aa7205dab12a4f0c4439e4f0856d10)
+59. [The Princess and the Warrior: A Tale of Two Volcanoes, by Duncan Tonatiuh](https://annas-archive.org/md5/1adb2fdc0475f2ce02e99d891ab9ae97)
+60. [Proud: Living My American Dream (Young Readers Edition), by Ibtihaj Muhammad](https://annas-archive.org/md5/f15f58f32a92b34b53070c20a578327e)
+61. [Sadako, by Eleanor Coerr and Ed Young](https://annas-archive.org/md5/8742b6b4bcf1a04bd12dd9b0eb79cdd3)
+62. [Soldier for Equality: José de la Luz Sáenz and the Great War, by Duncan Tonatiuh](https://annas-archive.org/md5/8cbdbb6430550e92e2d39b1f316dfedf)
+63. [The Sound of Silence, by Katrina Goldsaito and Julia Kuo](https://annas-archive.org/md5/ad415567330963c32909b38f24aaf49c)
+64. [Starry River of the Sky, by Grace Lin](https://annas-archive.org/md5/4855a11fb582efa4490370b5372485fa)
+65. [Stella Brings the Family, by Miriam B. Schiffer and Holly Clifton-Brown](https://annas-archive.org/md5/7d280beaaea7f374f2732cd3483ddc5d)
+66. [The Stonewall Riots: Coming Out in the Street, by Gayle E. Pitman](https://annas-archive.org/md5/a6e2c71dec4eb0d85d0214dad24ccb8a)
+67. [The List of Things That Will Not Change, by Rebecca Stead](https://annas-archive.org/md5/9449c419f1a830414b1e6af26fa13377)
+68. [To Night Owl from Dogfish, by Holly Goldberg Sloan and Meg Wolitzer](https://annas-archive.org/md5/32ea5a3804fe6a9e9544f4cf07457d74)
+69. [The Turtle of Oman (The Turtle of Oman Series), by Naomi Shihab Nye and Betsy Peterschmidt   ](https://annas-archive.org/md5/ad0c3ed3526eead022ca3026d71e4232)
+70. [Two Roads, Joseph Bruchac](https://annas-archive.org/md5/f829baef38128434655714f62209bc92)
+71. [Unusual Chickens for the Exceptional Poultry Farmer](https://annas-archive.org/md5/3520992b18498a293e8840b121683cfb)
+72. [We Are Grateful: Otsaliheliga Traci  Sorell and Frane Lessac](https://annas-archive.org/md5/55ffcd1d58fbdc162dbc9bc8c05c8c05)
+73. [Winter Candle Frame, by Ashford Jeron and Stacey Schuett](https://annas-archive.org/md5/133f3beeea96dce27cb28c6c36cd4b76)
+  
+</details>
+
+74. []()
+75. []()
+76. []()
+77. []()
+78. []()
+79. []()
+80. []()
+81. 
+
+
 
 
 
