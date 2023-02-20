@@ -41,11 +41,53 @@ These are some of the most challenged/banned books according to the [ALA](https:
 Florida is leading the charge in banning books. At the moment most school libraries are empty as the state has come in and removed large sections of books. 
 The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
 <details>
-<summary>Brevard County Ban List</summary>
+<summary>Florida state Ban List - Thanks to PEN America</summary>
 1. []()
 2. []()
   
 </details>
+1. [The Haters by Jesse Andrews ](https://annas-archive.org/md5/f1bd42e24e0aba9c964e728da6ee79a5)
+2. [Damsel by Elana K. Arnold ](https://annas-archive.org/md5/299864258493e7a3fd559ed173ec4cd9)
+3. [Infandous by Elana K. Arnold ](https://annas-archive.org/md5/406fc2552df6db786f0b7ea5dd6e5cb9)
+4. [Red Hood by Elana K. Arnold](https://annas-archive.org/md5/87477bac3f4abac0e4c68860ceef3f82)
+5. [What Girls Are Made Of by Elana K. Arnold](https://annas-archive.org/md5/10cfd8dd89ddd8316031e67ae0f543ee)
+6. [Forever… by Judy Blume]()
+7. [Before She Was Harriet, by Lesa Cline-Ransome and James E. Ransome](https://annas-archive.org/md5/e66ead1430aa59ddb4e728c53e8f2ca0)
+8. [Chik Chak Shabbat, by Mara Rockliff and Kyrsten Brooker](https://annas-archive.org/md5/cac45c5a883cdbb5d58318e44f06f5b3)
+9. [Dreamers, by Yuyi Morales](https://annas-archive.org/md5/e36e932dee4bccfc4ce64e2bf209a91c)
+10. [Islandborn, by Junot Díaz and Leo Espinosa](https://annas-archive.org/md5/ab9a421fe0afbc5b324869a8ffe99b8a)
+11. [One Green Apple, by Eve Bunting and Ted Lewin  ](https://annas-archive.org/md5/bf356c1ea4997d25e4a48acc2156dea9)
+12. [Sulwe, by Lupita Nyong’o and Vashti Harrison](https://annas-archive.org/md5/e9a671639bbf0d7c69f8cf4c7d852283)
+13. [Zen Shorts (Zen Series), by Jon J. Muth](https://annas-archive.org/md5/2d1ea4d8545eb008833ac566448ad01f)
+14. [10,000 Dresses, by Rex Ray and Marcus Ewert](https://annas-archive.org/md5/4699effe475472e37bd0858ee83ea140)
+15. [All Around Us, by Xelena Gonzalez ](https://annas-archive.org/md5/61e25a4012d9c052666f5f03832f75c8)
+16. [Amina’s Voice(Amina’s Voice Series), by Hena Kahn](https://annas-archive.org/md5/13886fca281417579aa82d6c33151c79)
+17. [The Berenstain Bears and the Big Question (The Berenstain Bears Series) by Jan and Stan Berenstain](https://annas-archive.org/md5/5e71a484dba7a98a5d452c769800708f)
+18. [The Best Man, by Richard Peck](https://annas-archive.org/md5/deb94437bb1198dd87dcb2f9acc32f5b)
+19. [Brother Eagle, Sister Sky, by Chief Seattle and Susan Jeffers](https://annas-archive.org/md5/664366e86f33d4ad925d92051f5272ad)
+20. [Carter Reads the Newspaper, by Deborah Hopkinson and Don Tate    ]()
+21. [The Color of My Words, by Lynn Joseph](https://annas-archive.org/md5/51bdad8329561c34f85daad9268089eb)
+22. [Dash (Dogs of World War II Series), by Kirby Larson](https://annas-archive.org/md5/b722fce639ff3620b8ec3f22efc5ed41)
+23. [A Day’s Work, by Eve Bunting](https://annas-archive.org/md5/ca724e1e3d1f82b488cf26f71a42a712)
+24. [A Dog Named Haku: A Holiday Story from Nepal, by Margarita Engle, Amish Karanjit, Nicole Karanjit, and Ruth Jeyaveeran](https://annas-archive.org/md5/9894d3712833f5825a8de3219c9c05d6)
+25. [The Double Life of Pocahontas, by Jean Fritz](https://annas-archive.org/md5/56866d783711b0226bb87ff92d01d897)
+26. [Extra Credit, by Andrew Clements](https://annas-archive.org/md5/07464283db7f6a19423b6fdb76a6a295)
+27. [A Family Is a Family Is a Family, by Sara O’Leary and Qin Leng](https://annas-archive.org/md5/28babdba8dc821170cbe144ba6304fe3)
+28. [Fatty Legs: A True Story, by Christy Jordan-Fenton, Margaret Pokiak-Fenton and Liz Amini-Holmes  ](https://annas-archive.org/md5/ad34de756d10cb72fe6061c0f5c50abb)
+29. [Flying the Dragon, by Natalie Dias Lorenzi](https://annas-archive.org/md5/6a94abea6b0697a58a72a16519d49e10)
+30. [Gaby, Lost and Found, by Angela Cervantes](https://annas-archive.org/md5/20bf46e475273b69cee8d0707aaecb1d)
+31. [The Garden of My Imaan, by Farhana Zia ](https://annas-archive.org/md5/528c78b6a6ad5991d28c91598466009e)
+32. [The Gold-Threaded Dress, by Carolyn Marsden](https://annas-archive.org/md5/5dd5aa109f081266ab274ef5828dfbb7)
+33. []()
+34. []()
+35. []()
+36. []()
+37. []()
+38. []()
+39. []()
+40. []()
+41. []()
+42. 
 
 
 
