@@ -40,11 +40,10 @@ These are some of the most challenged/banned books according to the [ALA](https:
 ### Florida State Specific Lists
 Florida is leading the charge in banning books. At the moment most school libraries are empty as the state has come in and removed large sections of books. 
 The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
+
 <details>
-<summary>Florida state Ban List - Thanks to PEN America</summary>
-This is an incomplete list of the top most banned books in the state of Florida. This list is incomplete because some of these books are not available at the moment. This was updated Feburary of 2023. Sourec: https://pen.org/banned-books-florida/
+<summary>Florida State Ban List - Thanks to PEN America</summary>
   
- 
 1. [The Haters by Jesse Andrews ](https://annas-archive.org/md5/f1bd42e24e0aba9c964e728da6ee79a5)
 2. [Damsel by Elana K. Arnold ](https://annas-archive.org/md5/299864258493e7a3fd559ed173ec4cd9)
 3. [Infandous by Elana K. Arnold ](https://annas-archive.org/md5/406fc2552df6db786f0b7ea5dd6e5cb9)
@@ -118,17 +117,18 @@ This is an incomplete list of the top most banned books in the state of Florida.
 71. [Unusual Chickens for the Exceptional Poultry Farmer](https://annas-archive.org/md5/3520992b18498a293e8840b121683cfb)
 72. [We Are Grateful: Otsaliheliga Traci  Sorell and Frane Lessac](https://annas-archive.org/md5/55ffcd1d58fbdc162dbc9bc8c05c8c05)
 73. [Winter Candle Frame, by Ashford Jeron and Stacey Schuett](https://annas-archive.org/md5/133f3beeea96dce27cb28c6c36cd4b76)
-  
 </details>
 
-74. []()
-75. []()
-76. []()
-77. []()
-78. []()
-79. []()
-80. []()
-81. 
+<details>
+<summary>Index of all books banned across states</summary>
+This is taken from the PEN america list of banned books across almost every school district and state in the US. This list will be updated over time.
+Source: https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318
+https://pen.org/banned-in-the-usa/
+
+  
+  
+  
+</details>
 
 
 
