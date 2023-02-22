@@ -42,7 +42,7 @@ Florida is leading the charge in banning books. At the moment most school librar
 The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
 
 ### Florida State Ban List - Thanks to PEN America
-This is an incomplete list of the top most banned books in the state of Florida. This list is incomplete because some of these books are not available at the moment. This was updated Feburary of 2023. Sourec: https://pen.org/banned-books-florida/  
+This is an incomplete list of the top most banned books in the state of Florida. This list is incomplete because some of these books are not available at the moment. This was updated Feburary of 2023. Source: [https://pen.org/banned-books-florida/  ](https://pen.org/banned-books-florida/)
 1. [The Haters by Jesse Andrews ](https://annas-archive.org/md5/f1bd42e24e0aba9c964e728da6ee79a5)
 2. [Damsel by Elana K. Arnold ](https://annas-archive.org/md5/299864258493e7a3fd559ed173ec4cd9)
 3. [Infandous by Elana K. Arnold ](https://annas-archive.org/md5/406fc2552df6db786f0b7ea5dd6e5cb9)
@@ -123,6 +123,13 @@ This is taken from the PEN america list of banned books across almost every scho
 Source: [PEN Index of Banned Books](https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/edit#gid=1171606318)
 
 Breakdown of the book bannings: [https://pen.org/banned-in-the-usa/](ttps://pen.org/banned-in-the-usa/)
+
+PEN America categorized the types of stories — themes, characters, topics — reflected in the 1,145 titles that have been banned based on how these issues were identified by publishers or major reading databases. The results show a wide range of titles being targeted, with some consistent themes. Many of the categories below overlap.
+Identities:
+Titles that deal explicitly with LGBTQ+ topics, or have LGBTQ+ protagonists or prominent secondary characters have been a major target in the current wave of book bans. This is reflected in the Index, with 379 such titles (33%), including a distinct subset of 84 titles that deal with transgender characters and topics (7%).
+        Fiction novels and non-fiction books with protagonists of color also made up a significant part of banned books in the Index, including 467 titles (41%).
+        Books dealing with Jewish and Muslim characters and religious/ethnic themes have also been targeted, with 18 titles listed in the Index.
+
 1. [Ace of Spades by Àbíké-Íyímídé, Faridah](https://annas-archive.org/md5/3f621e334f4983be8700c962b4ea7d52)
 2. [Clap When You Land by Acevedo, Elizabeth](https://annas-archive.org/md5/36b3bac3bab42696e87aa804c5a988af)
 3. [The Poet X by Acevedo, Elizabeth](https://annas-archive.org/md5/84af5b84c2d49df734a86754507f5466)
@@ -223,6 +230,7 @@ Breakdown of the book bannings: [https://pen.org/banned-in-the-usa/](ttps://pen.
 98. [Mixed Me! by Diggs, Taye](https://annas-archive.org/md5/6c55b8b13e4d9d28e392ac7f6cffeb46)
 99. [An Indigenous Peoples' History of the United States by Dunbar-Ortiz, Roxanne](https://annas-archive.org/md5/364b0b458fb0510433a2457a2efedce6)
 100. [The 1619 Project: A New Origin Story](https://annas-archive.org/md5/59d3cea30d50ce187c7644da0c013ac6)
+
 This list will keep going, as of Febuary 20, 2023 the full list of banned or challenged books across the nation is about 1,600.
  
 # Replication
