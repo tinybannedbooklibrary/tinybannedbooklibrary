@@ -41,7 +41,7 @@ Use the IPFS download links, Library Genesis and Z-Library have been taken down.
 
 ### Florida State Specific Lists
 Florida is leading the charge in banning books. At the moment most school libraries are empty as the state has come in and removed large sections of books. 
-The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas.However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
+The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which prohibits in-school discussions about racism, oppression, LBGTQ+ issues and economic inequity. This is a testing ground for more bills and for more laws to be passed. Republican city and state governments have been passing their own bills and laws to attempt to censor schools and public libraries but these efforts have been localized in specific areas. However, if republicans gain control of the government in the next national election, we can expect to see these books possibly banned from all schools and public libraries. 
 
 ### Florida State Ban List - Thanks to PEN America
 This is an incomplete list of the top most banned books in the state of Florida. This list is incomplete because some of these books are not available at the moment. This was updated Feburary of 2023. Source: [https://pen.org/banned-books-florida/  ](https://pen.org/banned-books-florida/)
@@ -237,7 +237,7 @@ Use the IPFS download links, Library Genesis and Z-Library have been taken down.
 99. [An Indigenous Peoples' History of the United States by Dunbar-Ortiz, Roxanne](https://annas-archive.org/md5/364b0b458fb0510433a2457a2efedce6)
 100. [The 1619 Project: A New Origin Story](https://annas-archive.org/md5/59d3cea30d50ce187c7644da0c013ac6)
 
-This list will keep going, as of Febuary 20, 2023 the full list of banned or challenged books across the nation is about 1,600.
+This list will keep getting updated, as of Febuary 20, 2023 the full list of banned or challenged books across the nation is about 1,600.
  
 # Replication
 This type of site can be replicated and modified. Want to make a new library to include links to specific things like trans rights and trans resources? Fork this library and add links to it. Want to include more links to specific information about social justice, Black history, and radical politics? Fork this repo and create one. 
