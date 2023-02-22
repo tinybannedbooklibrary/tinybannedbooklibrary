@@ -1,6 +1,6 @@
 # Background
 
-This digital library hosts books that are being banned or challenged by Republicans, Conservatives, and Christian Nationalists who are actively trying to ban information. People who normally say they are for "free speech" are against people having access to both historical and modern information about a broad range of topics. From LGBTQA+ rights and books about being queer, to the violent history of slavery, Jim Crow, and Black history in general. Trying to ban books that talk about the Japanese internment camps during WWII, or graphic novels about the holocaust. This is a direct attempt to block access to real and accessible information.
+This digital library links to books that are being banned or challenged by Republicans, Conservatives, and Christian Nationalists who are actively trying to ban information. People who normally say they are for "free speech" are against people having access to both historical and modern information about a broad range of topics. From LGBTQA+ rights and books about being queer, to the violent history of slavery, Jim Crow, and Black history in general. Trying to ban books that talk about the Japanese internment camps during WWII, or graphic novels about the holocaust. This is a direct attempt to block access to real and accessible information.
 
 Information wants to be free, and no person should be denied access to books simply because someone doesn't agree with them. We should allow people to live their lives and be able to read about topics that might resonate with them. We can't ignore history or lie about it. We can't deny the humanity of people by invalidating who they love, or how they identify. We can't allow states, governments, and corporations to lie to people, feeding them misinformation for political gain. And so - in a small way, with a server in hand, or a website, or a blog, or a tweet, someone has decided to share the books that some think should be banned.
 
@@ -10,10 +10,12 @@ Information wants to be free, and no person should be denied access to books sim
 3. [Replication](https://github.com/tinybannedbooklibrary/tinybannedbooklibrary#replication)
 
 # Accessing-Books
-This site only includes links to banned books, this account and the people that share this info are not responsible for hosting the books or maintaining the sites that do. Want them taken down? (First off - fuck you.) And secondly, take it up with the site owners. 
+This site only includes links to banned books, this account and the people that share this info are not responsible for hosting the books or maintaining the sites that do. Want them taken down? (First off - screw you.) And secondly, take it up with the site owners. 
 
 # Book List
 These are some of the most challenged/banned books according to the [ALA](https://www.ala.org/advocacy/bbooks/frequentlychallengedbooks/top10). Click on the title to download the book.
+
+Use the IPFS download links, Library Genesis and Z-Library have been taken down. 
 1. [Gender Queer by Maia Kobabe](https://annas-archive.org/md5/c90efeafe08ca2fcd19385adad93e541) 
 2. [Lawn Boy by Jonathan Evison](https://annas-archive.org/md5/0ef781ec23223b9c8c1edb8a5a3782c2)
 3. [All Boys Aren’t Blue by George M. Johnson](https://annas-archive.org/md5/d312f088529ed2ce5689cedd37f68390)
@@ -43,6 +45,8 @@ The govenor of Florida, Ron DeSantis signed into law the "Stop Woke Act", which 
 
 ### Florida State Ban List - Thanks to PEN America
 This is an incomplete list of the top most banned books in the state of Florida. This list is incomplete because some of these books are not available at the moment. This was updated Feburary of 2023. Source: [https://pen.org/banned-books-florida/  ](https://pen.org/banned-books-florida/)
+
+Use the IPFS download links, Library Genesis and Z-Library have been taken down. 
 1. [The Haters by Jesse Andrews ](https://annas-archive.org/md5/f1bd42e24e0aba9c964e728da6ee79a5)
 2. [Damsel by Elana K. Arnold ](https://annas-archive.org/md5/299864258493e7a3fd559ed173ec4cd9)
 3. [Infandous by Elana K. Arnold ](https://annas-archive.org/md5/406fc2552df6db786f0b7ea5dd6e5cb9)
@@ -129,6 +133,8 @@ Identities:
 Titles that deal explicitly with LGBTQ+ topics, or have LGBTQ+ protagonists or prominent secondary characters have been a major target in the current wave of book bans. This is reflected in the Index, with 379 such titles (33%), including a distinct subset of 84 titles that deal with transgender characters and topics (7%).
         Fiction novels and non-fiction books with protagonists of color also made up a significant part of banned books in the Index, including 467 titles (41%).
         Books dealing with Jewish and Muslim characters and religious/ethnic themes have also been targeted, with 18 titles listed in the Index.
+        
+Use the IPFS download links, Library Genesis and Z-Library have been taken down. 
 
 1. [Ace of Spades by Àbíké-Íyímídé, Faridah](https://annas-archive.org/md5/3f621e334f4983be8700c962b4ea7d52)
 2. [Clap When You Land by Acevedo, Elizabeth](https://annas-archive.org/md5/36b3bac3bab42696e87aa804c5a988af)
