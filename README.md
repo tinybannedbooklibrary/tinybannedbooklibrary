@@ -245,3 +245,4 @@ This will make sure that information is being spread as much as possible, that t
 When forks are created, they can be merged with this site, so if you do create a new library list of resources of your own and it's good, it might be added into this one. 
 
 [How to fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+[Use your new fork to make a free website like this](https://youtu.be/wK1jnLMimgE?t=52)
