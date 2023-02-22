@@ -139,7 +139,7 @@ Breakdown of the book bannings: [https://pen.org/banned-in-the-usa/](ttps://pen.
 14. [Kate in Waiting by Albertalli, Becky](https://annas-archive.org/md5/362ed224409a46159d0cac9198a84f79)
 15. [Leah on the Offbeat (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/c019cc6a82647515a327f617ed1257d6)
 16. [Love, Creekwood: A Simonverse Novella (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/fb0aba605db8cb56bedd86fd67981fc6)
-17. [Simon vs. the Homo Sapiens Agenda (Simonverse Series) by Albertalli, Becky]()https://annas-archive.org/md5/f26f0860131f031ef498c346ddaf591d
+17. [Simon vs. the Homo Sapiens Agenda (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/f26f0860131f031ef498c346ddaf591d)
 18. [The Upside of Unrequited (Simonverse Series) by Albertalli, Becky](https://annas-archive.org/md5/1df2ef4557247846c960d0adb6e6bd39)
 19. [What If It's Us (What If It's Us Series) by Albertalli, Becky](https://annas-archive.org/md5/8d917d471dc5f5c9434248425fb8be07)
 20. [Indivisible by Aleman, Daniel](https://annas-archive.org/md5/2a538ef80944d24cd89aa7a40d24dbb1)
@@ -176,21 +176,55 @@ Breakdown of the book bannings: [https://pen.org/banned-in-the-usa/](ttps://pen.
 51. [One Man Guy by Barakiva, Michael](https://annas-archive.org/md5/c59eba93c655591247d08ceb57b46a4c)
 52. [Brand New School, Brave New Ruby (Ruby and the Booker Boys Series) by Barnes, Derrick](https://annas-archive.org/md5/d78cddd205ea2e8d3e0a49fd48907fd6)
 53. [Crown: An Ode to the Fresh Cut by Barnes, Derrick](https://annas-archive.org/md5/959a8befb6869a39e2db15c39b82f2ff)
-54. []()
-55. []()
-56. []()
-57. []()
-58. []()
-59. 
-
-  
+54. [Peter Pan by Barrie, James Matthew](https://annas-archive.org/md5/d32eab6fa0ea379247b8187fc2a4623e)
+55. [They Called Themselves The K.K.K.: The Birth of an American Terrorist Group by Bartoletti, Susan Campbell](https://annas-archive.org/md5/13c6ce07381d8b567b16b8d9ef42c1ed)
+56. [Wonders of the Invisible World by Barzak, Christopher](https://annas-archive.org/md5/bdb1d7602351d8fa53b05aa0ac221b87)
+57. [Girls Made of Snow and Glass by Bashardoust, Melissa](https://annas-archive.org/md5/0e7c43526886aa53e27e1f6fbec1ae66)
+58. [Cinderella Is Dead by Bayron, Kalynn](https://annas-archive.org/md5/35b03acfe15e9ccca4baf969780e3ed3)
+59. [The Sky Is Mine by Beashel, Amy](https://annas-archive.org/md5/562ea0da9b456ff8bd9ec81ca6b60493)
+60. [Sofia Valdez, Future Prez (Questioneers Picture Books Series) by Beaty, Andrea](https://annas-archive.org/md5/8037dcd97599345db83a8f2a936a25b8)
+61. [Fun Home: A Family Tragicomic by Bechdel, Alison](https://annas-archive.org/md5/9f7e9189e0a43d15214f939bf96bc0ee)
+62. [Counting on Katherine: How Katherine Johnson Saved Apollo 13 by Becker, Helaine](https://annas-archive.org/md5/7a5356af774270b7b5f9b5d3f09ae277)
+63. [Lucky Broken Girl by Behar, Ruth](https://annas-archive.org/md5/2b40f20cd08c32e611f986943c06ff62)
+64. [Queer: The Ultimate LGBTQ Guide for Teens by Belge, Kathy](https://annas-archive.org/md5/61a3eacedbae0c0b0ef13c0a50cc31fa)
+65. [Faces at the Bottom of the Well: The Permanence of Racism by Bell, Derrick](https://annas-archive.org/md5/75db26021fe27e4d7b1f831d964f316d)
+66. [Alan Cole Is Not a Coward by Bell, Eric](https://annas-archive.org/md5/682288416986e387a5245f5aaa7458d8)
+67. [Death Wind by Bell, William](https://annas-archive.org/md5/688320e821c16e4303f2eb7a4f9c0b5e)
+68. [La tormenta by Bell, William](https://annas-archive.org/md5/f2446f9efd35a604018d2dc7c8137279)
+69. [Great by Benincasa, Sara](https://annas-archive.org/md5/577556281c120ce43472d4afe10ef998)
+70. [Things That Make White People Uncomfortable ](https://annas-archive.org/md5/2e0a81eade03a8f0c1b0a5be94b2a5fd)
+71. [I Kissed Alice by Birch, Anna](https://annas-archive.org/md5/5ae3bc8595d6333be02441a6dbb0e0f9)
+72. [Sorted: Growing Up, Coming Out, and Finding My Place by Bird, Jackson](https://annas-archive.org/md5/dd2bc04ac141a50072826528c62b9a10)
+73. [My Invented Life by Bjorkman, Lauren](https://annas-archive.org/md5/965a70f06db21f6f719bb13af83dfd4a)
+74. [Boy2Girl by Blacker, Terence](https://annas-archive.org/md5/20671c89d458889107bf33ced0042967)
+75. [Girl Made of Stars by Blake, Ashley Herring](https://annas-archive.org/md5/73affdd75654a0fedeee42e7e3ba7ef1)
+76. [Bowery Girl by Blakemore, Kim Taylor](https://annas-archive.org/md5/34e5e7e1ef268810849bf41bbd06cf34)
+77. [Someone I Used to Know by Blount, Patty](https://annas-archive.org/md5/2838ca5e20a629b1b4d28b9cf03e356b)
+78. [Changing the Equation: 50+ US Black Women in STEM by Bolden, Tonya](https://annas-archive.org/md5/00880836345fc3fb579e880f694bf241)
+79. [A Quick & Easy Guide to They/Them Pronouns by Bongiovanni, Archie](https://annas-archive.org/md5/45c53997afcc4b10612efe82ba5dd52f)
+80. [Channel Kindness: Stories of Kindness and Community by Born This Way Foundation Reporters](https://annas-archive.org/md5/7e9ec021da7a56be533ddc27a1690d2e)
+81. [Be Gay, Do Comics: Queer History, Memoir, and Satire from The Nib by Bors, Matt](https://annas-archive.org/md5/6c29ca75dab3b76d06ced036829039c1)
+82. [Bruised by Boteju, Tanya](https://annas-archive.org/md5/162ceb1b536a00f9bb67efa0c7b36cf1)
+83. [Kings, Queens, and In-Betweens by Boteju, Tanya](https://annas-archive.org/md5/591d4d7f030ef1a2bda23dd8b75de2ae)
+84. [Allies: Real Talk About Showing Up, Screwing Up, And Trying Again by Bourne, Shakirah](https://annas-archive.org/md5/d746e8d0a5573931a8bc2326cdc3180a)
+85. [Summer Bird Blue by Bowman, Akemi Dawn](https://annas-archive.org/md5/96ae9db6f06ffa06ffcca49ff2346169)
+86. [Will by Boyd, Maria](https://annas-archive.org/md5/01953e3b1fcc423614b93fc8145252b6)
+87. [The Benefits of Being an Octopus by Braden, Ann](https://annas-archive.org/md5/2dac0a955ef8d87668c4c8bf0a4e0203)
+88. [Black Girl Unlimited: The Remarkable Story of a Teenage Wizard by Brown, Echo](https://annas-archive.org/md5/d2411d51259631ade9f14027eaab59ef)
+89. [Be Strong, Be Wise: The Young Adult’s Guide to Sexual Assault Awareness and Personal Safety by Carpenter, Amy R.](https://annas-archive.org/md5/95a82f60ea11c039c0f15cf81da2834d)
+90. [How Beautiful the Ordinary: Twelve Stories of Identity by Cart, Michael](https://annas-archive.org/md5/82cfc35a00a6311379f217ce442368b7)
+91. [Rebel Girl Revolution (Fat Angie Series) by Charlton-Trujillo, E. E.](https://annas-archive.org/md5/f2df594e567af327e7692a1344ac9b2a)
+92. [The Name Jar by Choi, Yangsook](https://annas-archive.org/md5/2acae12890c9a5501340910003ec8ad1)
+93. [Boy Erased: A Memoir of Identity, Faith, and Family by Conley, Garrard](https://annas-archive.org/md5/acf12d6a3b5d325c37b683ad7ba00c4f)
+94. [Gender Identity: Beyond Pronouns and Bathrooms by Cook, Maria](https://annas-archive.org/md5/0bc5ff0018922a1d0db6d92bfc8efbd3)
+95. [Happy families by Davis, Tanita S.](https://annas-archive.org/md5/3e690045218d45e19f57729d8787de10)
+96. [Team BFF: Race to the Finish! (Girls Who Code Series) by Deutsch, Stacia](https://annas-archive.org/md5/a8bb1238790326f07c274231bf47b72c)
+97. [White Fragility: Why It's So Hard for White People to Talk About Racism by DiAngelo, Robin](https://annas-archive.org/md5/ba7fcaff695353a634419f66b587668d)
+98. [Mixed Me! by Diggs, Taye](https://annas-archive.org/md5/6c55b8b13e4d9d28e392ac7f6cffeb46)
+99. [An Indigenous Peoples' History of the United States by Dunbar-Ortiz, Roxanne](https://annas-archive.org/md5/364b0b458fb0510433a2457a2efedce6)
+100. [The 1619 Project: A New Origin Story](https://annas-archive.org/md5/59d3cea30d50ce187c7644da0c013ac6)
+This list will keep going, as of Febuary 20, 2023 the full list of banned or challenged books across the nation is about 1,600.
  
-
-
-
-
-
-
 # Replication
 This type of site can be replicated and modified. Want to make a new library to include links to specific things like trans rights and trans resources? Fork this library and add links to it. Want to include more links to specific information about social justice, Black history, and radical politics? Fork this repo and create one. 
 This will make sure that information is being spread as much as possible, that this is distributed and decentralized. Make a copy in case this repo/site is taken down, fork this to do your own thing or to keep things updated. 
