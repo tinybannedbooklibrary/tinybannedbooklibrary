@@ -1,2 +1,0 @@
-Example page
-#Example heading
