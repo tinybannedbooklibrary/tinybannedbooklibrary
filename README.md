@@ -128,21 +128,21 @@ This list was taken from a recently shared email from Keller ISD in Texas about 
 
 Use the IPFS download links, Library Genesis and Z-Library have been taken down. 
 
-1.[Fade by Mcmann, Lisa](https://annas-archive.org/md5/5fc835e7af0c254fbf3749299e668002)
-2.[The Assassin’s Blade by Maas, Sarah J.](https://annas-archive.org/md5/3e9a07f743296f50290af404b34a0278)
-3.[SOLD by McCormick, Patricia](https://annas-archive.org/md5/72e28cd51d182f3eef255f5d48a3321d)
-4.[Queen of Shadows by Maas, Sarah J](https://annas-archive.org/md5/64a7742c5b360c77ea91c59a3511bb09)
-5.[Eleanor & Park by Rowell,Rainbow](https://annas-archive.org/md5/7726f749e5d5820f9165df749b24a1b3)
-6.[Thirteen Reasons Why by Asher, Jay](https://annas-archive.org/md5/7719b930655438b2d246852675686e41)
-7.[Check, Please! by Ngozi, Ukazu](https://annas-archive.org/md5/c56f61964eabb6c295e6e8eeab9417e5)
-8.[The Black Flamingo by Atta, Dean](https://annas-archive.org/md5/54b9d38fb6bfaff635856a8d9f2573e5)
-9.[Heir of Fire by Sarah J. Maas](https://annas-archive.org/md5/c030bacf97b9ab59e31f3c20cdeae676)
-10.[Throne of Glass by Maas, Sarah J](https://annas-archive.org/md5/b73554ff0e1c9c8cccbbe6600f63aa90)
-11.[I'll Give You the Sun by Jandy Nelson](https://annas-archive.org/md5/5cd333f265cc0dbcee6352db56d1e279)
-12.[Go Ask Alice by Anonymous](https://annas-archive.org/md5/58d418ef52472a4554c70c914baba9dd)
-13.[Wintergirls by Anderson, Laurie Halse](https://annas-archive.org/md5/1b30d9b71eee964a459b5eafef7569e1)
-14.[The Hate U Give by Angie Thomas](https://annas-archive.org/md5/5a74d37db3f49e617735886aee6db4d0)
-15.[Heroine by McGinnis, Mindy](https://annas-archive.org/md5/6dec316806c98df0b184fa68a418f0be)
+1. [Fade by Mcmann, Lisa](https://annas-archive.org/md5/5fc835e7af0c254fbf3749299e668002)
+2. [The Assassin’s Blade by Maas, Sarah J.](https://annas-archive.org/md5/3e9a07f743296f50290af404b34a0278)
+3. [SOLD by McCormick, Patricia](https://annas-archive.org/md5/72e28cd51d182f3eef255f5d48a3321d)
+4. [Queen of Shadows by Maas, Sarah J](https://annas-archive.org/md5/64a7742c5b360c77ea91c59a3511bb09)
+5. [Eleanor & Park by Rowell,Rainbow](https://annas-archive.org/md5/7726f749e5d5820f9165df749b24a1b3)
+6. [Thirteen Reasons Why by Asher, Jay](https://annas-archive.org/md5/7719b930655438b2d246852675686e41)
+7. [Check, Please! by Ngozi, Ukazu](https://annas-archive.org/md5/c56f61964eabb6c295e6e8eeab9417e5)
+8. [The Black Flamingo by Atta, Dean](https://annas-archive.org/md5/54b9d38fb6bfaff635856a8d9f2573e5)
+9. [Heir of Fire by Sarah J. Maas](https://annas-archive.org/md5/c030bacf97b9ab59e31f3c20cdeae676)
+10. [Throne of Glass by Maas, Sarah J](https://annas-archive.org/md5/b73554ff0e1c9c8cccbbe6600f63aa90)
+11. [I'll Give You the Sun by Jandy Nelson](https://annas-archive.org/md5/5cd333f265cc0dbcee6352db56d1e279)
+12. [Go Ask Alice by Anonymous](https://annas-archive.org/md5/58d418ef52472a4554c70c914baba9dd)
+13. [Wintergirls by Anderson, Laurie Halse](https://annas-archive.org/md5/1b30d9b71eee964a459b5eafef7569e1)
+14. [The Hate U Give by Angie Thomas](https://annas-archive.org/md5/5a74d37db3f49e617735886aee6db4d0)
+15. [Heroine by McGinnis, Mindy](https://annas-archive.org/md5/6dec316806c98df0b184fa68a418f0be)
 
 ### Index of all books banned across states
 This is taken from the PEN america list of banned books across almost every school district and state in the US. This list will be updated over time.
