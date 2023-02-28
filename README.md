@@ -123,6 +123,9 @@ Use the IPFS download links, Library Genesis and Z-Library have been taken down.
 72. [We Are Grateful: Otsaliheliga Traci  Sorell and Frane Lessac](https://annas-archive.org/md5/55ffcd1d58fbdc162dbc9bc8c05c8c05)
 73. [Winter Candle Frame, by Ashford Jeron and Stacey Schuett](https://annas-archive.org/md5/133f3beeea96dce27cb28c6c36cd4b76)
 
+### Keller ISD
+This list was taken from a recently shared email from Keller ISD in Texas about a list of books they are removing from students and taking off the shelves. 
+1.[]()
 
 ### Index of all books banned across states
 This is taken from the PEN america list of banned books across almost every school district and state in the US. This list will be updated over time.
