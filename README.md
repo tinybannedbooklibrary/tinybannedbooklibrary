@@ -125,7 +125,7 @@ Use the IPFS download links, Library Genesis and Z-Library have been taken down.
 
 ### Keller ISD
 This list was taken from a recently shared email from Keller ISD in Texas about a list of books they are removing from students and taking off the shelves. 
-
+[Tweet source is at this link](https://twitter.com/LaneyHawes/status/1630245378124845058)
 Use the IPFS download links, Library Genesis and Z-Library have been taken down. 
 
 1. [Fade by Mcmann, Lisa](https://annas-archive.org/md5/5fc835e7af0c254fbf3749299e668002)
